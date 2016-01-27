@@ -1,7 +1,7 @@
 # react-redux-test
 react redux test shop
 
-## Установка\Запуск
+## Installation
 npm install
 npm start
 
